@@ -5,6 +5,7 @@ I'm an autodidact and an undergraduate of Computer System Engineering from Colom
 # Currently Learning 🌱
 * Dart
 * Flutter
+* rust
 
 # Tech Stack 🛠️
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=48 height=48/>
@@ -26,3 +27,4 @@ I'm an autodidact and an undergraduate of Computer System Engineering from Colom
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=48 height=48/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=48 height=48/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=48 height=48/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=48 height=48/>
