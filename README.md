@@ -3,9 +3,7 @@
 I'm an autodidact and an undergraduate of Computer System Engineering from Colombia,as well as an Arch Linux user and Linux enthusiast.
 
 # Currently Learning 🌱
-* Dart
-* Flutter
-* rust
+* c
 
 # Tech Stack 🛠️
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=48 height=48/>
