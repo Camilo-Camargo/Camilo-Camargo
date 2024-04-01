@@ -1,10 +1,6 @@
 
 # About Me  🧘‍♂️
-I'm an autodidact and an undergraduate of Computer System Engineering from Colombia,as well as an Arch Linux user and Linux enthusiast.
-
-# Currently Learning 🌱
-* c
-* c++
+System Engineer with a passion for low-level programming, embedded systems, web and mobile development. I'm also a self-taught learner, always eager to expand my knowledge and skills.
 
 # Tech Stack 🛠️
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=48 height=48/>
@@ -19,7 +15,7 @@ I'm an autodidact and an undergraduate of Computer System Engineering from Colom
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width=48 height=48/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=48 height=48 />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width=48 height=48/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width=48 height=48/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width=48 height=48/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=48 height=48/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=48 height=48/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=48 height=48/>
